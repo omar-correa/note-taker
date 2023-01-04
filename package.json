@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.18.2",
-    "file-system": "^2.2.2",
-    "validator": "^10.11.0"
-  }
-}
